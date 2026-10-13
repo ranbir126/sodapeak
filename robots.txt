@@ -1,4 +1,4 @@
-# robots.txt for sodapeak-gummies.vercel.app
+# robots.txt for sodapeak-gummies-woad.vercel.app
 User-agent: *
 Allow: /
 Disallow: /order
@@ -23,4 +23,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-Sitemap: https://sodapeak-gummies.vercel.app/sitemap.xml
+Sitemap: https://sodapeak-gummies-woad.vercel.app/sitemap.xml

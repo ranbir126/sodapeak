@@ -11,15 +11,15 @@
 - Price: 2 bottles $158 ($79/bottle) + shipping; 4 bottles $177 ($44/bottle) free US shipping; 8 bottles $294 ($37/bottle) free US shipping
 - Bonuses (4 and 8 bottle packages): 5 free digital guides
 - Guarantee: 60-day money-back guarantee; no subscription
-- Purchase: https://sodapeak-gummies.vercel.app/#pricing
+- Purchase: https://sodapeak-gummies-woad.vercel.app/#pricing
 
 ## Pages
-- [SodaPeak overview, ingredients, price and FAQ](https://sodapeak-gummies.vercel.app/)
-- [Contact and customer support](https://sodapeak-gummies.vercel.app/contact/)
-- [Returns and refund policy](https://sodapeak-gummies.vercel.app/returns/)
-- [Disclaimer and affiliate disclosure](https://sodapeak-gummies.vercel.app/disclaimer/)
-- [Privacy policy](https://sodapeak-gummies.vercel.app/privacy-policy/)
-- [Terms of service](https://sodapeak-gummies.vercel.app/terms-of-service/)
+- [SodaPeak overview, ingredients, price and FAQ](https://sodapeak-gummies-woad.vercel.app/)
+- [Contact and customer support](https://sodapeak-gummies-woad.vercel.app/contact/)
+- [Returns and refund policy](https://sodapeak-gummies-woad.vercel.app/returns/)
+- [Disclaimer and affiliate disclosure](https://sodapeak-gummies-woad.vercel.app/disclaimer/)
+- [Privacy policy](https://sodapeak-gummies-woad.vercel.app/privacy-policy/)
+- [Terms of service](https://sodapeak-gummies-woad.vercel.app/terms-of-service/)
 
 ## Notes
 These statements have not been evaluated by the Food and Drug Administration. SodaPeak is not intended to diagnose, treat, cure, or prevent any disease. Consult a doctor before use if you have a heart condition, blood pressure concerns or take medication. Individual results vary.
