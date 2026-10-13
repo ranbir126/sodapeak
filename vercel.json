@@ -2,8 +2,8 @@
   "cleanUrls": true,
   "trailingSlash": true,
   "redirects": [
-    { "source": "/order", "destination": "https://PASTE-YOUR-AFFILIATE-LINK-HERE", "permanent": false },
-    { "source": "/order/", "destination": "https://PASTE-YOUR-AFFILIATE-LINK-HERE", "permanent": false }
+    { "source": "/order", "destination": "https://sodapaeak.com/", "permanent": false },
+    { "source": "/order/", "destination": "https://sodapaeak.com/", "permanent": false }
   ],
   "headers": [
     {
