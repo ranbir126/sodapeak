@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://sodapeak-gummies.vercel.app/</loc>
+    <lastmod>2026-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://sodapeak-gummies.vercel.app/images/sodapeak-gummies-ingredients.webp</image:loc></image:image>
+    <image:image><image:loc>https://sodapeak-gummies.vercel.app/images/sodapeak-male-vitality.webp</image:loc></image:image>
+    <image:image><image:loc>https://sodapeak-gummies.vercel.app/images/sodapeak-8-bottles.webp</image:loc></image:image>
+    <image:image><image:loc>https://sodapeak-gummies.vercel.app/images/sodapeak-supplement-facts.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://sodapeak-gummies.vercel.app/contact/</loc>
+    <lastmod>2026-09-26</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://sodapeak-gummies.vercel.app/returns/</loc>
+    <lastmod>2026-09-26</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://sodapeak-gummies.vercel.app/disclaimer/</loc>
+    <lastmod>2026-09-26</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://sodapeak-gummies.vercel.app/privacy-policy/</loc>
+    <lastmod>2026-09-26</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://sodapeak-gummies.vercel.app/terms-of-service/</loc>
+    <lastmod>2026-09-26</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>

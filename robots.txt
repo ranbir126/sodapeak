@@ -1,0 +1,26 @@
+# robots.txt for sodapeak-gummies.vercel.app
+User-agent: *
+Allow: /
+Disallow: /order
+
+# AI search & answer engines (GEO) - allowed
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://sodapeak-gummies.vercel.app/sitemap.xml
